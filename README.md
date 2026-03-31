@@ -19,7 +19,7 @@
 - 💳 **Billing & Payments** — Invoice management with billed, paid, and outstanding amounts
 - 🌙 **Dark UI** — Refined navy dark theme with teal/coral accent system
 
---
+---
 
 ## 🗂️ Project Structure
 
